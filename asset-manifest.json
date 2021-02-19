@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/kyudo-hasbergen/static/js/main.e894854c.chunk.js",
+    "main.js.map": "/kyudo-hasbergen/static/js/main.e894854c.chunk.js.map",
+    "runtime-main.js": "/kyudo-hasbergen/static/js/runtime-main.d1de69f5.js",
+    "runtime-main.js.map": "/kyudo-hasbergen/static/js/runtime-main.d1de69f5.js.map",
+    "static/js/2.4370c670.chunk.js": "/kyudo-hasbergen/static/js/2.4370c670.chunk.js",
+    "static/js/2.4370c670.chunk.js.map": "/kyudo-hasbergen/static/js/2.4370c670.chunk.js.map",
+    "index.html": "/kyudo-hasbergen/index.html",
+    "static/js/2.4370c670.chunk.js.LICENSE.txt": "/kyudo-hasbergen/static/js/2.4370c670.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1de69f5.js",
+    "static/js/2.4370c670.chunk.js",
+    "static/js/main.e894854c.chunk.js"
+  ]
+}
