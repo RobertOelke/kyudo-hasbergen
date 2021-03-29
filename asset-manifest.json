@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.js": "/kyudo-hasbergen/static/js/main.f691598b.chunk.js",
-    "main.js.map": "/kyudo-hasbergen/static/js/main.f691598b.chunk.js.map",
+    "main.js": "/kyudo-hasbergen/static/js/main.69c82e3d.chunk.js",
+    "main.js.map": "/kyudo-hasbergen/static/js/main.69c82e3d.chunk.js.map",
     "runtime-main.js": "/kyudo-hasbergen/static/js/runtime-main.d1de69f5.js",
     "runtime-main.js.map": "/kyudo-hasbergen/static/js/runtime-main.d1de69f5.js.map",
-    "static/js/2.702ec920.chunk.js": "/kyudo-hasbergen/static/js/2.702ec920.chunk.js",
-    "static/js/2.702ec920.chunk.js.map": "/kyudo-hasbergen/static/js/2.702ec920.chunk.js.map",
+    "static/js/2.cabad8f0.chunk.js": "/kyudo-hasbergen/static/js/2.cabad8f0.chunk.js",
+    "static/js/2.cabad8f0.chunk.js.map": "/kyudo-hasbergen/static/js/2.cabad8f0.chunk.js.map",
     "index.html": "/kyudo-hasbergen/index.html",
-    "static/js/2.702ec920.chunk.js.LICENSE.txt": "/kyudo-hasbergen/static/js/2.702ec920.chunk.js.LICENSE.txt",
+    "static/js/2.cabad8f0.chunk.js.LICENSE.txt": "/kyudo-hasbergen/static/js/2.cabad8f0.chunk.js.LICENSE.txt",
     "static/media/Beitrittserklaerung.3318e766.pdf": "/kyudo-hasbergen/static/media/Beitrittserklaerung.3318e766.pdf",
     "static/media/Beitrittserklaerung.4f3a2f0b.odt": "/kyudo-hasbergen/static/media/Beitrittserklaerung.4f3a2f0b.odt",
     "static/media/DatenschutzinfosFuerMitglieder.619b1117.odt": "/kyudo-hasbergen/static/media/DatenschutzinfosFuerMitglieder.619b1117.odt",
     "static/media/DatenschutzinfosFuerMitglieder.6a910ad2.pdf": "/kyudo-hasbergen/static/media/DatenschutzinfosFuerMitglieder.6a910ad2.pdf",
+    "static/media/Lexikon.a32a660b.pdf": "/kyudo-hasbergen/static/media/Lexikon.a32a660b.pdf",
     "static/media/Sehnengalgen.d469daa9.gif": "/kyudo-hasbergen/static/media/Sehnengalgen.d469daa9.gif",
     "static/media/SicherheitsregelnImDojo.5486aea0.pdf": "/kyudo-hasbergen/static/media/SicherheitsregelnImDojo.5486aea0.pdf",
     "static/media/SicherheitsregelnImDojo.8a7b4f6b.odt": "/kyudo-hasbergen/static/media/SicherheitsregelnImDojo.8a7b4f6b.odt",
@@ -24,7 +25,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d1de69f5.js",
-    "static/js/2.702ec920.chunk.js",
-    "static/js/main.f691598b.chunk.js"
+    "static/js/2.cabad8f0.chunk.js",
+    "static/js/main.69c82e3d.chunk.js"
   ]
 }
