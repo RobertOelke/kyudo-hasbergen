@@ -1,31 +1,29 @@
 {
   "files": {
-    "main.js": "/kyudo-hasbergen/static/js/main.69c82e3d.chunk.js",
-    "main.js.map": "/kyudo-hasbergen/static/js/main.69c82e3d.chunk.js.map",
+    "main.js": "/kyudo-hasbergen/static/js/main.d478aede.chunk.js",
+    "main.js.map": "/kyudo-hasbergen/static/js/main.d478aede.chunk.js.map",
     "runtime-main.js": "/kyudo-hasbergen/static/js/runtime-main.d1de69f5.js",
     "runtime-main.js.map": "/kyudo-hasbergen/static/js/runtime-main.d1de69f5.js.map",
-    "static/js/2.cabad8f0.chunk.js": "/kyudo-hasbergen/static/js/2.cabad8f0.chunk.js",
-    "static/js/2.cabad8f0.chunk.js.map": "/kyudo-hasbergen/static/js/2.cabad8f0.chunk.js.map",
+    "static/js/2.fecdf7d0.chunk.js": "/kyudo-hasbergen/static/js/2.fecdf7d0.chunk.js",
+    "static/js/2.fecdf7d0.chunk.js.map": "/kyudo-hasbergen/static/js/2.fecdf7d0.chunk.js.map",
     "index.html": "/kyudo-hasbergen/index.html",
-    "static/js/2.cabad8f0.chunk.js.LICENSE.txt": "/kyudo-hasbergen/static/js/2.cabad8f0.chunk.js.LICENSE.txt",
+    "static/js/2.fecdf7d0.chunk.js.LICENSE.txt": "/kyudo-hasbergen/static/js/2.fecdf7d0.chunk.js.LICENSE.txt",
     "static/media/Beitrittserklaerung.3318e766.pdf": "/kyudo-hasbergen/static/media/Beitrittserklaerung.3318e766.pdf",
-    "static/media/Beitrittserklaerung.4f3a2f0b.odt": "/kyudo-hasbergen/static/media/Beitrittserklaerung.4f3a2f0b.odt",
-    "static/media/DatenschutzinfosFuerMitglieder.619b1117.odt": "/kyudo-hasbergen/static/media/DatenschutzinfosFuerMitglieder.619b1117.odt",
     "static/media/DatenschutzinfosFuerMitglieder.6a910ad2.pdf": "/kyudo-hasbergen/static/media/DatenschutzinfosFuerMitglieder.6a910ad2.pdf",
     "static/media/Lexikon.a32a660b.pdf": "/kyudo-hasbergen/static/media/Lexikon.a32a660b.pdf",
     "static/media/Sehnengalgen.d469daa9.gif": "/kyudo-hasbergen/static/media/Sehnengalgen.d469daa9.gif",
     "static/media/SicherheitsregelnImDojo.5486aea0.pdf": "/kyudo-hasbergen/static/media/SicherheitsregelnImDojo.5486aea0.pdf",
-    "static/media/SicherheitsregelnImDojo.8a7b4f6b.odt": "/kyudo-hasbergen/static/media/SicherheitsregelnImDojo.8a7b4f6b.odt",
-    "static/media/adventsschiessen.6de2102d.png": "/kyudo-hasbergen/static/media/adventsschiessen.6de2102d.png",
-    "static/media/dojo.43bd987d.jpg": "/kyudo-hasbergen/static/media/dojo.43bd987d.jpg",
+    "static/media/adventsschiessen.7c217401.jpg": "/kyudo-hasbergen/static/media/adventsschiessen.7c217401.jpg",
+    "static/media/bogenschuetze.a2e4ad33.jpg": "/kyudo-hasbergen/static/media/bogenschuetze.a2e4ad33.jpg",
+    "static/media/dojo.ee4739c7.jpg": "/kyudo-hasbergen/static/media/dojo.ee4739c7.jpg",
     "static/media/knienderkyudoka.9945522e.gif": "/kyudo-hasbergen/static/media/knienderkyudoka.9945522e.gif",
     "static/media/pfeilstaender.c1ab1faf.jpg": "/kyudo-hasbergen/static/media/pfeilstaender.c1ab1faf.jpg",
-    "static/media/sehnenwinkel.36ee110f.png": "/kyudo-hasbergen/static/media/sehnenwinkel.36ee110f.png",
+    "static/media/sehnenwinkel.a723d352.jpg": "/kyudo-hasbergen/static/media/sehnenwinkel.a723d352.jpg",
     "static/media/sehnenwinkel_skizze.55f8ae11.png": "/kyudo-hasbergen/static/media/sehnenwinkel_skizze.55f8ae11.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d1de69f5.js",
-    "static/js/2.cabad8f0.chunk.js",
-    "static/js/main.69c82e3d.chunk.js"
+    "static/js/2.fecdf7d0.chunk.js",
+    "static/js/main.d478aede.chunk.js"
   ]
 }
